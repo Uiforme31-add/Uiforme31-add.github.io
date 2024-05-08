@@ -132,3 +132,9 @@ HEAD - Указатель на коммит, файл HEAD находится в
 Закодированная строка SHA-1, содержит 40 символов.
 
 
+
+## Состояния файлов в файловой структуре Git
+
+
+staged/not staged  tracked/untracked  changed  commited
+
