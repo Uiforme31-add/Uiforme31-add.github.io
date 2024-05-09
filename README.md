@@ -138,3 +138,26 @@ HEAD - Указатель на коммит, файл HEAD находится в
 
 staged/not staged  tracked/untracked  changed  commited
 
+
+##Редактирование
+
+
+ESC - escape to view
+
+
+W,B - over word BACK and FORWARD
+
+
+o,a - INSERT
+
+
+a - insert After
+
+
+i - start Inserting
+
+
+o - insert line
+
+
+u - step back
