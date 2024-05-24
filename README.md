@@ -1,4 +1,34 @@
-﻿## Команды консоли
+﻿## Ветвление в git
+
+
+git checkout
+
+
+git switch
+
+
+git push
+
+
+git pull
+
+
+git checkout
+
+
+git branch
+
+
+git branch -r
+
+
+git branch -d
+
+
+git branch -D
+
+
+## Команды консоли
 
 
 pwd - Команда для вывода рабочей директории
@@ -139,10 +169,13 @@ staged/not staged  tracked/untracked  changed  commited
 git status - Команда показывает текущее состояние файловой системы репо.
 
 
+git diff - команда для просмотра разницы между 2мя коммитами.Например git diff HEAD~6 HEAD~5
+
+
 ##Редактирование
 
 
-!:qa - Exit Vim editor!
+
 
 
 ESC - escape to view
