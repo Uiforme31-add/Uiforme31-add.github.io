@@ -34,7 +34,7 @@ cp - Скопировать файл, поменять название файл
 mkdir - Создать папку
 
 
-vim, nano - text editors, this programs are available on git for Windows distrib! Good.
+vim, nano - text editors, this programs are available on git for Windows distrib!
 
 
 ## Разметка Markdown
