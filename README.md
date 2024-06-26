@@ -101,24 +101,18 @@ vim, nano - text editors, this programs are available on git for Windows distrib
 
 ### Установка акцентов
 
+курсив
+полужирый
+комбинировать
+зачеркнутый использует две ~ тильды
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-
-Combined emphasis with **asterisks and _underscores_**.
-
-
-Strikethrough uses two tildes. ~~Scratch this.~~ 
 
 
 '''Markdown
-Emphasis, aka italics, with *asterisks* or _underscores_.
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-Combined emphasis with **asterisks and _underscores_**.
-Strikethrough uses two tildes. ~~Scratch this.~~
+\*asterisks\* or \_underscores\_
+\*\*asterisks\*\* or \_\_underscores\_\_
+\*\*asterisks and \_underscores\_\*\*
+\~\~Scratch this.\~\~
 '''
 
 
@@ -129,7 +123,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 |--------|----------------------------|
 |---------------------------|---------|
 |\*\*Asterisks\*\*| Bold **Asterisks**|
-
+|-----------------|-------------------|
 
 ***
 
