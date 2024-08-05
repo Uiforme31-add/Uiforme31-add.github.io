@@ -136,7 +136,7 @@ git commit->projects_file commited.
 staged /  not staged  tracked/untracked  changed  commited
 1)STAGED AREA
 2)COMMITED AREA
-3)area w/ MODIFIED files
+3)area  MODIFIED files
 
 
 git status - Показать текущее состояние файловой системы репо.  
