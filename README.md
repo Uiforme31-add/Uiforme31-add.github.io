@@ -13,13 +13,13 @@ dir - Вывод содержимого папки
 cd - Переход в указанную папку, ''cd ~'' - перейти в домашнюю папку
 
 
-ls - Вывод содержимого папки, которую указали в команде
+```ls``` - Вывод содержимого папки, которую указали в команде
 
 
-ls -a - То же, с отображением скрытых файлов
+```ls -a``` - То же, с отображением скрытых файлов
 
 
-'''touch  <>''' - Создать файл
+'''Bash touch  <>''' - Создать файл
 
 
 rm -rf - Удаление указанной папки, включая все вложенные папки, не запрашивать разрешение на удаление
@@ -133,7 +133,10 @@ staged AND NOT staged AND commited.
 project_file->status is NOT staged->CHANGIN->status  
 is NOT staged->git add project_file->status is staged.  
 git commit->projects_file commited.
-staged /  not staged  tracked/untracked  changed  commited  
+staged /  not staged  tracked/untracked  changed  commited
+1)STAGED AREA
+2)COMMITED AREA
+3)area w/ MODIFIED files
 
 
 git status - Показать текущее состояние файловой системы репо.  
